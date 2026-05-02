@@ -20,7 +20,7 @@ Meu foco é evoluir como desenvolvedor full stack, entender bem os fundamentos e
     <img src="https://img.shields.io/badge/LinkedIn-SAYMON%20GOULART-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
     <a href="https://instagram.com/saymongoular">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@SAYMONGOULAR-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 

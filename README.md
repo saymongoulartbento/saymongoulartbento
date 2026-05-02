@@ -14,9 +14,9 @@ Meu foco é evoluir como desenvolvedor full stack, entender bem os fundamentos e
 ## 🌐 Onde me encontrar
 
 <p align="left">
- <br> <a href="https://github.com/saymongoulartbento">
+  <a href="https://github.com/saymongoulartbento">
     <img src="https://img.shields.io/badge/GitHub-SAYMONGOULART-181717?style=for-the-badge&logo=github" />
-  </a></p></br>
+  </a></p>
   <a href="https://www.linkedin.com/in/saymon-goulart-2790771a3">
     <img src="https://img.shields.io/badge/LinkedIn-SAYMON%20GOULART-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -53,15 +53,6 @@ Meu foco é evoluir como desenvolvedor full stack, entender bem os fundamentos e
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saymongoulartbento&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymongoulartbentot&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 

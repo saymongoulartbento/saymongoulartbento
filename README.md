@@ -15,7 +15,7 @@ Meu foco é evoluir como desenvolvedor full stack, entender bem os fundamentos e
 <p>
   <a href="https://github.com/saymongoulartbento">
     <img src="https://img.shields.io/badge/GitHub-SAYMONGOULART-181717?style=for-the-badge&logo=github" />
-  </a></p>
+  </a>
   <a href="https://www.linkedin.com/in/saymon-goulart-2790771a3">
     <img src="https://img.shields.io/badge/LinkedIn-SAYMON%20GOULART-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> </br>

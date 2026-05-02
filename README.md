@@ -13,13 +13,13 @@ Meu foco é evoluir como desenvolvedor full stack, entender bem os fundamentos e
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/saymongoulartbento" target="_blank">
+  <a href="https://github.com/saymongoulartbento">
     <img src="https://img.shields.io/badge/GitHub-SAYMONGOULART-181717?style=for-the-badge&logo=github" />
   </a> 
-  <a href="https://www.linkedin.com/in/saymon-goulart-2790771a3" target="_blank">
+  <a href="https://www.linkedin.com/in/saymon-goulart-2790771a3">
     <img src="https://img.shields.io/badge/LinkedIn-SAYMON%20GOULART-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="https://instagram.com/saymongoular" target="_blank">
+  <a href="https://instagram.com/saymongoular">
     <img src="https://img.shields.io/badge/Instagram-@SAYMONGOULART-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>

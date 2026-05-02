@@ -1,7 +1,6 @@
 # Saymon Goulart | Estudante de ADS e Desenvolvimento Web
 
 🚀 **Estudante de ADS | Desenvolvimento Web em evolução**  
-🇧🇷 Brasil
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base em desenvolvimento web.
 

@@ -12,7 +12,7 @@ Meu foco é evoluir como desenvolvedor full stack, entender bem os fundamentos e
 
 ## 🌐 Onde me encontrar
 
-<p align="left">
+<p>
   <a href="https://github.com/saymongoulartbento">
     <img src="https://img.shields.io/badge/GitHub-SAYMONGOULART-181717?style=for-the-badge&logo=github" />
   </a></p>

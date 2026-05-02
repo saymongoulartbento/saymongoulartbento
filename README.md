@@ -29,7 +29,7 @@ Meu foco é evoluir como desenvolvedor full stack, entender bem os fundamentos e
 - 🎨 Estilização e responsividade com CSS
 - ⚙️ Lógica de programação com JavaScript
 - 🟢 Backend com Node.js
-- 🗄️ Banco de dados com MySQL
+- 🗄️ Banco de dados com MySQL/MongoDB
 - 🔗 Criação de APIs e integração com banco de dados
 - 🧪 Projetos práticos para desenvolver experiência
 

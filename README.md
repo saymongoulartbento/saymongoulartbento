@@ -28,16 +28,15 @@ Meu objetivo é evoluir como desenvolvedor Full Stack, com foco no Back-End fort
 
 ## 🧠 O que estou estudando
 
--☕ Fundamentos de Java
--🧱 Programação Orientada a Objetos (POO)
--📦 Collections e estruturas de dados
--🔄 Stream API e programação funcional
--⚠️ Tratamento de exceções
--🗄️ Banco de dados e SQL
--🔗 Desenvolvimento de APIs REST
--🌱 Spring Boot
--🧪 Testes e desenvolvimento de projetos práticos
-
+- ☕ Fundamentos de Java <br>
+- 🧱 Programação Orientada a Objetos (POO) <br>
+- 📦 Collections e estruturas de dados <br>
+- 🔄 Stream API e programação funcional <br>
+- ⚠️ Tratamento de exceções <br>
+- 🗄️ Banco de dados e SQL <br>
+- 🔗 Desenvolvimento de APIs REST <br>
+- 🌱 Spring Boot <br>
+- 🧪 Testes e desenvolvimento de projetos práticos
 ---
 
 ## 🚀 Meu objetivo

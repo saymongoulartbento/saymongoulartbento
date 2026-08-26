@@ -1,12 +1,12 @@
-# Desenvolvedor Web em formação 👨‍💻
+# Desenvolvedor Back-End em formação 👨‍💻
 
-🚀 **Estudante de ADS | Desenvolvimento Web em evolução**  
+🚀 **Estudante de ADS**  
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base em desenvolvimento web.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou construindo minha base em desenvolvimento Back-End com Java.
 
-Atualmente estudo e pratico com **HTML, CSS, JavaScript, Node.js e MySQL**, criando páginas, APIs e pequenos sistemas próprios para ganhar experiência na prática.
+Estudo e pratico Java, Programação Orientada a Objetos (POO), Collections, Streams, tratamento de exceções, SQL e conceitos de desenvolvimento de APIs, criando exercícios e pequenos projetos para desenvolver minha lógica e experiência prática.
 
-Meu foco é evoluir como desenvolvedor full stack, entender bem os fundamentos e transformar meus estudos em projetos reais.
+Meu objetivo é evoluir como desenvolvedor Full Stack, com foco no Back-End fortalecendo meus fundamentos de programação e transformando meus estudos em projetos reais.
 
 ---
 
@@ -28,40 +28,19 @@ Meu foco é evoluir como desenvolvedor full stack, entender bem os fundamentos e
 
 ## 🧠 O que estou estudando
 
-- 🌐 Estruturação de páginas com HTML
-- 🎨 Estilização e responsividade com CSS
-- ⚙️ Lógica de programação com JavaScript
-- 🟢 Backend com Node.js
-- 🗄️ Banco de dados com MySQL/MongoDB
-- 🔗 Criação de APIs e integração com banco de dados
-- 🧪 Projetos práticos para desenvolver experiência
-
----
-
-## 🛠️ Tecnologias
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+☕ Fundamentos de Java
+🧱 Programação Orientada a Objetos (POO)
+📦 Collections e estruturas de dados
+🔄 Stream API e programação funcional
+⚠️ Tratamento de exceções
+🗄️ Banco de dados e SQL
+🔗 Desenvolvimento de APIs REST
+🌱 Spring Boot
+🧪 Testes e desenvolvimento de projetos práticos
 
 ---
 
 ## 🚀 Meu objetivo
 
-> _"Aprender construindo projetos reais, evoluir todos os dias e transformar conhecimento em soluções práticas."_
+Aprender construindo projetos reais, evoluir todos os dias e transformar conhecimento em soluções práticas!
 
----
-
-⭐ Estou sempre buscando aprender mais e desenvolver projetos que me ajudem a crescer como desenvolvedor.
